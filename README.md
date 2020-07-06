@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
+Blockchain101 is a Summer School course on Blockchain technology.
+In this page I will make available all the slides and code. 
 
-You can use the [editor on GitHub](https://github.com/MiguelGarciaTH/Blockchain101/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
