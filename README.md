@@ -2,10 +2,10 @@
 Blockchain101 is a Summer School course on Blockchain technology.
 In this page I will make available all the slides and code.
 
-# What youw will learn
+# What you will learn
 This course is an hands-on introduction to Blockchain technology.
 
-## 1. Security Fundamental Concepts
+## 1. Security Fundamental Concepts [intro](#intro)
 
 ## 2. Secure Distributed Systems
 
@@ -14,22 +14,17 @@ This course is an hands-on introduction to Blockchain technology.
 ## 4. Assembling the pieces: Blockchain prototype
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 1. Security Fundamental Concepts <a name="intro"></a>
 
-```markdown
-Syntax highlighted code block
+# 2. Secure Distributed Systems
 
-# Header 1
-## Header 2
-### Header 3
+# 3. Blockchain in a Nutshell
 
-- Bulleted
-- List
+# 4. Assembling the pieces: Blockchain prototype
 
-1. Numbered
-2. List
+
+# tips
 
 **Bold** and _Italic_ and `Code` text
 
@@ -37,11 +32,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiguelGarciaTH/Blockchain101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
