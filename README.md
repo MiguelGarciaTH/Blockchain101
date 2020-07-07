@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Blockchain101
 Blockchain101 is a Summer School course on Blockchain technology.
 In this page I will make available all the slides and code.
 
-## What youw will learn
+# What youw will learn
 This course is an hands-on introduction to Blockchain technology.
 
 ## 1. Security Fundamental Concepts
