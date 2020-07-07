@@ -5,7 +5,7 @@ In this page I will make available all the slides and code.
 # What you will learn
 This course is an hands-on introduction to Blockchain technology.
 
-## 1. Security Fundamental Concepts [intro](#intro)
+## 1. [Security Fundamental Concepts](#intro)
 
 ## 2. Secure Distributed Systems
 
