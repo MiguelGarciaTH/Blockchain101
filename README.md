@@ -7,21 +7,21 @@ This course is an hands-on introduction to Blockchain technology.
 
 ## 1. [Security Fundamental Concepts](#intro)
 
-## 2. Secure Distributed Systems
+## 2. [Secure Distributed Systems](#distributed_systems)
 
-## 3. Blockchain in a Nutshell
+## 3. [Blockchain in a Nutshell](#blockchain)
 
-## 4. Assembling the pieces: Blockchain prototype
+## 4. [Assembling the pieces: Blockchain prototype](#prototype)
 
 
 
 # 1. Security Fundamental Concepts <a name="intro"></a>
 
-# 2. Secure Distributed Systems
+# 2. Secure Distributed Systems <a name="distributed_systems"></a>
 
-# 3. Blockchain in a Nutshell
+# 3. Blockchain in a Nutshell <a name="blockchain"></a>
 
-# 4. Assembling the pieces: Blockchain prototype
+# 4. Assembling the pieces: Blockchain prototype <a name="prototype"></a>
 
 
 # tips
