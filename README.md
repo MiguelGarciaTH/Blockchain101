@@ -4,7 +4,7 @@ In this page I will make available all the slides and code.
 # What you will learn
 This course is an hands-on introduction to Blockchain technology.
 
-## Table of contents
+## Table of contents <a name="table"></a>
 1. [Security Fundamental Concepts](#intro) (3hours - TBA)
 2. [Secure Distributed Systems](#distributed_systems) (3hours - TBA)
 3. [Blockchain in a Nutshell](#blockchain) (3hours - TBA)
@@ -28,7 +28,7 @@ The students will implement mechanisms as separate modules that provide cryptogr
 
 **Aditional material/References:**
 
-
+[top](#table)
 
 # 2. Secure Distributed Systems <a name="distributed_systems"></a>
 ---
@@ -47,6 +47,7 @@ The students will implement this game in software using the last class implement
 
 **Aditional material/References:**
 
+[top](#table)
 
 # 3. Blockchain in a Nutshell <a name="blockchain"></a>
 ---
@@ -64,6 +65,7 @@ In particular, we will talk about cryptography which is the core of a blockchain
 
 **Aditional material/References:**
 
+[top](#table)
 
 # 4. Assembling the pieces: Blockchain prototype <a name="prototype"></a>
 ---
@@ -80,3 +82,5 @@ In particular, we will talk about cryptography which is the core of a blockchain
 ---
 
 **Aditional material/References:**
+
+[top](#table)
