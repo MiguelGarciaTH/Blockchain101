@@ -16,7 +16,7 @@ This course is an hands-on introduction to Blockchain technology.
 
 
 # 1. Security Fundamental Concepts <a name="intro"></a>
-
+[Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)
 # 2. Secure Distributed Systems <a name="distributed_systems"></a>
 
 # 3. Blockchain in a Nutshell <a name="blockchain"></a>
