@@ -59,7 +59,9 @@ The students will implement this game in software using the last class implement
 **Class overview:**
 
 In this class, we finally introduce Blockchain technology: What it is? What is solves?
-We will cover three types of Consensus - which is one of the problems of distributed systems:  Byzantine Fault Tolerance (BFT), Proof-of-Work (PoW), and Proof-of-Stake (PoS).
+We will cover three types of Consensus - which is one of the problems of distributed systems:  . . . Byzantine Fault Tolerance (BFT);
+. Proof-of-Work (PoW);
+. Proof-of-Stake (PoS).
 Then, we will focus on the first Blockchain that appeard: The Bitcoin.
 Bitcoin address the double-spending problem.
 
