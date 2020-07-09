@@ -6,10 +6,10 @@ In this page I will make available all the slides and code.
 This course is an hands-on introduction to Blockchain technology.
 
 ## Table of contents
-1. [Security Fundamental Concepts](#intro)
-2. [Secure Distributed Systems](#distributed_systems)
-3. [Blockchain in a Nutshell](#blockchain)
-4. [Assembling the pieces: Blockchain prototype](#prototype)
+1. [Security Fundamental Concepts](#intro) (3hours - TBA)
+2. [Secure Distributed Systems](#distributed_systems) (3hours - TBA)
+3. [Blockchain in a Nutshell](#blockchain) (3hours - TBA)
+4. [Assembling the pieces: Blockchain prototype](#prototype) (3hours - TBA)
 
 
 
@@ -24,7 +24,6 @@ In particular, we will talk about cryptography which is the core of a blockchain
 
 
 | [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)       |
-| ----------- | ----------- |
 
 ---
 
