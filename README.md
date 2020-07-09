@@ -1,4 +1,3 @@
-# Blockchain101
 Blockchain101 is a Summer School course on Blockchain technology.
 In this page I will make available all the slides and code.
 
