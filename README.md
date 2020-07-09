@@ -21,13 +21,14 @@ In this class, we will present the course agenda and cover the fundamental conce
 To understand what is a blockchain, one must understand the security properties and how it is possible to implement them.
 In particular, we will talk about cryptography which is the core of a blockchain solution.
 
-[Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)
-[Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)
+
+
+| [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)       |
+| ----------- | ----------- |
 
 ---
 
 **Aditional material/References:**
-
 
 
 
@@ -36,13 +37,3 @@ In particular, we will talk about cryptography which is the core of a blockchain
 # 3. Blockchain in a Nutshell <a name="blockchain"></a>
 
 # 4. Assembling the pieces: Blockchain prototype <a name="prototype"></a>
-
-
-# tips
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
