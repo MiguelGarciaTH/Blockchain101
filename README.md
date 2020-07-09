@@ -84,11 +84,13 @@ The students will implement a PoW systems using the knowledge and code implement
 ---
 **Class overview:**
 
-In this class, we will present the course agenda and cover the fundamental concepts of security.
-To understand what is a blockchain, one must understand the security properties and how it is possible to implement them.
-In particular, we will talk about cryptography which is the core of a blockchain solution.
+In this class we will put all the pieces together and build a blockchain prototype.
 
-
+The prototype should have:
+- Blockchain structure
+- Add new blocks
+- Mine blocks (PoW algorithm)
+- Send blocks to other nodes
 
 | [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)       |
 
