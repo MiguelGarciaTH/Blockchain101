@@ -29,6 +29,7 @@ The students will implement mechanisms as separate modules that provide cryptogr
 ---
 
 **Aditional material/References:**
+- [Eddie Woo: The RSA Encryption Algorithm](https://www.youtube.com/watch?v=4zahvcJ9glg)
 
 | [top](#table) |
 
@@ -90,8 +91,8 @@ The prototype should have:
 - Blockchain structure
 - Add new blocks
 - Mine blocks (PoW algorithm)
-- Send blocks to other nodes
 
+- Send blocks to other nodes
 | [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)       |
 
 ---
