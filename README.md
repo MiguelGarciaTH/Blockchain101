@@ -31,7 +31,11 @@ The students will implement mechanisms as separate modules that provide cryptogr
 **Aditional material/References:**
 - [Eddie Woo: The RSA Encryption Algorithm](https://www.youtube.com/watch?v=4zahvcJ9glg)
 - [R. L. Rivest, A. Shamir L. Adleman: A method for obtaining digital signatures and public-key cryptosystems](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjUw5Ptq97qAhVqCWMBHdr4BAwQFjABegQIARAB&url=https%3A%2F%2Fpeople.csail.mit.edu%2Frivest%2FRsapaper.pdf&usg=AOvVaw1FtI2T7P32pKAb6jnZSqxi)
+[3Blue1Brown: How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
+
+- Slide 12: [Mono-alphabetic Substitution](https://www.dcode.fr/monoalphabetic-substitution)
 - Slide 40: [Extended Euclidean Algorithm and Inverse Modulo Tutorial](https://www.youtube.com/watch?time_continue=211&v=fz1vxq5ts5I&feature=emb_logo)
+- Slide 50: [SHA-256 hash calculator](https://xorbin.com/tools/sha256-hash-calculator)
 
 | [top](#table) |
 
