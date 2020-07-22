@@ -38,6 +38,8 @@ The students will implement mechanisms as separate modules that provide cryptogr
 - Slide 50: [SHA-256 hash calculator](https://xorbin.com/tools/sha256-hash-calculator)
 - Slide 53 [Computerphile: Hashing Algorithms and Security](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 
+- [Learning Python](https://www.learnpython.org/en/Hello,_World!)
+
 | [top](#table) |
 
 
