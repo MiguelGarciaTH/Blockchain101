@@ -98,7 +98,6 @@ The prototype should have:
 - Blockchain structure
 - Add new blocks
 - Mine blocks (PoW algorithm)
-
 - Send blocks to other nodes
 
 
