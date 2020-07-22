@@ -36,6 +36,7 @@ The students will implement mechanisms as separate modules that provide cryptogr
 - Slide 12: [Mono-alphabetic Substitution](https://www.dcode.fr/monoalphabetic-substitution)
 - Slide 40: [Extended Euclidean Algorithm and Inverse Modulo Tutorial](https://www.youtube.com/watch?time_continue=211&v=fz1vxq5ts5I&feature=emb_logo)
 - Slide 50: [SHA-256 hash calculator](https://xorbin.com/tools/sha256-hash-calculator)
+- Slide 53 [Computerphile: Hashing Algorithms and Security](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 
 | [top](#table) |
 
