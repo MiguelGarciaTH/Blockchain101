@@ -49,3 +49,43 @@ print(mylist[2])
 
 helloworld = "hello" + " " + "world"
 print(helloworld)
+
+
+# This prints out "Hello, John!"
+name = "John"
+print("Hello, %s!" % name)
+
+
+# This prints out "John is 23 years old."
+name = "John"
+age = 23
+print("%s is %d years old." % (name, age))
+
+
+## STRINGS
+astring = "Hello world!"
+print("single quotes are ' '")
+
+print(len(astring))
+
+astring = "Hello world!"
+print(astring.index("o"))
+
+astring = "Hello world!"
+print(astring.count("l"))
+
+astring = "Hello world!"
+print(astring[3:7])
+
+astring = "Hello world!"
+print(astring.startswith("Hello"))
+print(astring.endswith("asdfasdfasdf"))
+
+## conditions
+name = "John"
+age = 23
+if name == "John" and age == 23:
+    print("Your name is John, and you are also 23 years old.")
+
+if name == "John" or name == "Rick":
+    print("Your name is either John or Rick.")
