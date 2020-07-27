@@ -39,6 +39,8 @@ The students will implement mechanisms as separate modules that provide cryptogr
 - [R. L. Rivest, A. Shamir L. Adleman: A method for obtaining digital signatures and public-key cryptosystems](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjUw5Ptq97qAhVqCWMBHdr4BAwQFjABegQIARAB&url=https%3A%2F%2Fpeople.csail.mit.edu%2Frivest%2FRsapaper.pdf&usg=AOvVaw1FtI2T7P32pKAb6jnZSqxi)
 [3Blue1Brown: How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)
 - [Learning Python](https://www.learnpython.org/en/Hello,_World!)
+- [SHA256 user implementation](https://bitbucket.org/pypy/pypy/raw/202f38624d212c87263b5850532ab0573928037f/lib_pypy/_sha256.py), it seems to have problems when running, but it is good to have a look on the SHA256's code.
+
 
 | [top](#table) |
 

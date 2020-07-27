@@ -89,3 +89,93 @@ if name == "John" and age == 23:
 
 if name == "John" or name == "Rick":
     print("Your name is either John or Rick.")
+
+name = "John"
+if name in ["John", "Rick"]:
+    print("Your name is either John or Rick.")
+
+statement = False
+another_statement = True
+if statement is True:
+    # do something
+    pass
+elif another_statement is True: # else if
+    # do something else
+    pass
+else:
+    # do another thing
+    pass
+
+
+x = [1,2,3]
+y = [1,2,3] # y = x
+print(x == y) # Prints out True
+print(x is y) # Prints out False
+
+
+## FOR loops
+primes = [2, 3, 5, 7]
+for prime in primes:
+    print(prime)
+
+
+## Dictionaries
+phonebook = {}
+phonebook["John"] = 938477566
+phonebook["Jack"] = 938377264
+phonebook["Jill"] = 947662781
+print(phonebook)
+
+
+phonebook = {
+    "John" : 938477566,
+    "Jack" : 938377264,
+    "Jill" : 947662781
+}
+print(phonebook)
+
+
+phonebook = {"John" : 938477566,"Jack" : 938377264,"Jill" : 947662781}
+for name, number in phonebook.items():
+    print("Phone number of %s is %d" % (name, number))
+
+
+phonebook = {
+   "John" : 938477566,
+   "Jack" : 938377264,
+   "Jill" : 947662781
+}
+del phonebook["John"]
+print(phonebook)
+
+phonebook = {
+   "John" : 938477566,
+   "Jack" : 938377264,
+   "Jill" : 947662781
+}
+phonebook.pop("John")
+print(phonebook)
+
+## NUMPY ARRAYS
+# Create 2 new lists height and weight
+height = [1.87,  1.87, 1.82, 1.91, 1.90, 1.85]
+weight = [81.65, 97.52, 95.25, 92.98, 86.18, 88.45]
+
+# Import the numpy package as np
+import numpy as np
+
+# Create 2 numpy arrays from height and weight
+np_height = np.array(height)
+np_weight = np.array(weight)
+
+# Calculate bmi
+bmi = np_weight / np_height ** 2
+
+# Print the result
+print(bmi)
+
+# For a boolean response
+print(bmi > 23)
+
+# Print only those observations above 23
+print(bmi[bmi > 23])
