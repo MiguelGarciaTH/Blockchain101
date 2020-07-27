@@ -179,3 +179,6 @@ print(bmi > 23)
 
 # Print only those observations above 23
 print(bmi[bmi > 23])
+
+for i in (range(24, -1, -8)*2):
+    print(i)
