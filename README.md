@@ -64,6 +64,8 @@ The students will implement this game in software using the last class implement
 ---
 
 **Aditional material/References:**
+- [A Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+
 
 | [top](#table) |
 
