@@ -59,7 +59,7 @@ The students will implement this game in software using the last class implement
 
 
 
-| [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/tree/master/code/module2)       |
+| [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/2_blockchain101_secure_distributed_systems)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/tree/master/code/module2)       |
 
 ---
 
