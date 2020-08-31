@@ -80,7 +80,7 @@ We will cover three types of Consensus - which is one of the problems of distrib
 - Byzantine Fault Tolerance (BFT);
 - Proof-of-Work (PoW);
 - Proof-of-Stake (PoS).
-Then, we will focus on the first Blockchain that appeard: The Bitcoin.
+Then, we will focus on the first Blockchain that appeared: The Bitcoin.
 Bitcoin address the double-spending problem.
 
 
