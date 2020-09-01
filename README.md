@@ -5,10 +5,10 @@ In this page I will make available all the slides and code.
 This course is an hands-on introduction to Blockchain technology.
 
 ## Table of contents <a name="table"></a>
-1. [Security Fundamental Concepts](#intro) (15 September'20 | 5PM-20PM)
-2. [Secure Distributed Systems](#distributed_systems) (16 September'20 | 5PM-20PM)
-3. [Blockchain in a Nutshell](#blockchain) (17 September'20 | 5PM-20PM)
-4. [Assembling the pieces: Blockchain prototype](#prototype) (18 September'20 |  5PM-20PM)
+1. [Security Fundamental Concepts](#intro) | 15 September'20 | 5PM-20PM
+2. [Secure Distributed Systems](#distributed_systems) | 16 September'20 | 5PM-20PM
+3. [Blockchain in a Nutshell](#blockchain) | 17 September'20 | 5PM-20PM
+4. [Assembling the pieces: Blockchain prototype](#prototype) | 18 September'20 |  5PM-20PM
 
 
 
