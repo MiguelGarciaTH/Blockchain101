@@ -84,9 +84,7 @@ Then, we will focus on the first Blockchain that appeared: The Bitcoin.
 Bitcoin address the double-spending problem.
 
 
-The students will implement a PoW systems using the knowledge and code implemented in the previous classes.
-
-
+The students will implement a PoW system using the knowledge and code implemented in the previous classes.
 
 
 | [Slides](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/slides/1_blockchain101_security_fundamental_concepts.pdf)      | [Code](https://github.com/MiguelGarciaTH/Blockchain101/blob/master/code/module3)       |
