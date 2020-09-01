@@ -81,7 +81,7 @@ We will cover three types of Consensus - which is one of the problems of distrib
 - Proof-of-Work (PoW);
 - Proof-of-Stake (PoS).
 Then, we will focus on the first Blockchain that appeared: The Bitcoin.
-Bitcoin address the double-spending problem.
+Bitcoin addresses the double-spending problem.
 
 
 The students will implement a PoW system using the knowledge and code implemented in the previous classes.
@@ -92,6 +92,9 @@ The students will implement a PoW system using the knowledge and code implemente
 ---
 
 **Aditional material/References:**
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy6OCr-8frAhUXDmMBHSMsBq4QFjABegQIBBAB&url=https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf&usg=AOvVaw05-4mYD7EyyKjwcHh8i0Vw)
+
+
 
 | [top](#table) |
 
