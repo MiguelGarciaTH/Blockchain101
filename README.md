@@ -67,6 +67,8 @@ The students will implement this game in software using the last class implement
 - [A Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
 - [Python sockets](https://realpython.com/python-sockets/)
 - [Python AES Crypto](https://pycryptodome.readthedocs.io/en/latest/src/cipher/aes.html)
+- [What Is the Bitcoin Block Size Limit?](https://bitcoinmagazine.com/what-is-bitcoin/what-is-the-bitcoin-block-size-limit), interesting article about the size of bitcoin blocks
+
 
 
 | [top](#table) |
