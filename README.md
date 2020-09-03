@@ -93,7 +93,7 @@ The students will implement a PoW system using the knowledge and code implemente
 
 **Aditional material/References:**
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy6OCr-8frAhUXDmMBHSMsBq4QFjABegQIBBAB&url=https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf&usg=AOvVaw05-4mYD7EyyKjwcHh8i0Vw)
-
+- [But how does bitcoin actually work? (by 3Blue1Brown)](https://www.youtube.com/watch?v=bBC-nXj3Ng4), the best Bitcoin explanation that you will find online
 
 
 | [top](#table) |
